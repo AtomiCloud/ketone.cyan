@@ -33,5 +33,3 @@ jobs:
 
       dockerfile: ./cyan/blob.Dockerfile
       image_name: blob
-  #
-  #

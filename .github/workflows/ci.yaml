@@ -11,5 +11,3 @@ jobs:
     with:
       atomi_platform: ketone
       atomi_service: atomi-cyan
-  #
-  #
