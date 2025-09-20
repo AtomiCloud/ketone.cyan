@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/AtomiCloud/ketone.cyan/compare/v1.0.0...v1.0.1) (2025-09-20)
+
+
+### 🐛 Bug Fixes 🐛
+
+* Dckerfile ignored ([bb2366e](https://github.com/AtomiCloud/ketone.cyan/commit/bb2366eef14569e442e7e0d9c64e752356370ed0))
+
 ## 1.0.0 (2025-09-20)
 
 
