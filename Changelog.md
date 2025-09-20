@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/AtomiCloud/ketone.cyan/compare/v1.0.3...v1.1.0) (2025-09-20)
+
+
+### ✨ Features ✨
+
+* upstream updates ([c83bf6d](https://github.com/AtomiCloud/ketone.cyan/commit/c83bf6d85505371830c04f936ce56b32d077007f))
+
 ## [1.0.3](https://github.com/AtomiCloud/ketone.cyan/compare/v1.0.2...v1.0.3) (2025-09-20)
 
 
