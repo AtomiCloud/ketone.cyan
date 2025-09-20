@@ -15,7 +15,7 @@ jobs:
       atomi_platform: constxxplatformxx
       atomi_service: constxxservicexx
 
-      dockerfile: ./cyan/Dockerfile
+      dockerfile: ./cyan/template.Dockerfile
       image_name: template
       context: ./cyan
 
