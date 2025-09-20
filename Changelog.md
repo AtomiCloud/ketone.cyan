@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/AtomiCloud/ketone.cyan/compare/v1.0.2...v1.0.3) (2025-09-20)
+
+
+### 🐛 Bug Fixes 🐛
+
+* missing CYAN_TOKEN ([d7e8160](https://github.com/AtomiCloud/ketone.cyan/commit/d7e8160599e77c55dfa9dc3f3ca0142d7d1f0f2b))
+
 ## [1.0.2](https://github.com/AtomiCloud/ketone.cyan/compare/v1.0.1...v1.0.2) (2025-09-20)
 
 
