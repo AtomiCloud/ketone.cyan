@@ -29,4 +29,7 @@ jobs:
 
       # Pre Commit
       - name: Run push cyanprint
+        env:
+          DOMAIN: ghcr.io
+          GITHUB_REPO_REF: ${{ github.repository }}
         run: nix develop .#ci -c ./scripts/publish.sh ${{ inputs.version }}
