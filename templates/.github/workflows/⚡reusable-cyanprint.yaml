@@ -32,4 +32,5 @@ jobs:
         env:
           DOMAIN: ghcr.io
           GITHUB_REPO_REF: ${{ github.repository }}
+          CYAN_TOKEN: ${{ secrets.CYAN_TOKEN }}
         run: nix develop .#ci -c ./scripts/publish.sh ${{ inputs.version }}
