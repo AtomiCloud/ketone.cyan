@@ -1,0 +1,11 @@
+username: atomi
+name: constxxtemplatenamexx
+description: constxxdescxx
+project: https://github.com/AtomiCloud/constxxplatformxx.constxxservicexx
+source: https://github.com/AtomiCloud/constxxplatformxx.constxxservicexx.git
+email: admin@atomi.cloud
+tags: ['atomi']
+readme: cyan/README.MD
+processors: ['cyan/default']
+plugins: []
+templates: []

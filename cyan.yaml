@@ -1,0 +1,11 @@
+username: atomi
+name: cyan
+description: AtomiCloud's Cyanprint Template Template
+project: https://github.com/AtomiCloud/ketone.cyan
+source: https://github.com/AtomiCloud/ketone.cyan.git
+email: admin@atomi.cloud
+tags: ['template', 'atomi']
+readme: cyan/README.MD
+processors: ['cyan/default']
+templates: []
+plugins: []
