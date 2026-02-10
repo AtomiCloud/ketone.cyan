@@ -1,0 +1,14 @@
+{
+  "name": "ketone-atomi-cyan",
+  "type": "module",
+  "scripts": {
+    "knip": "knip"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "knip": "^5.83.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}

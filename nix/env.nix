@@ -8,6 +8,8 @@ with packages;
   dev = [
     pls
     git
+    sg
+    typescript-language-server
   ];
 
   main = [
