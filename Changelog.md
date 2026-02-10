@@ -1,3 +1,15 @@
+## [1.2.0](https://github.com/AtomiCloud/ketone.cyan/compare/v1.1.2...v1.2.0) (2026-02-10)
+
+
+### ✨ Features ✨
+
+* use lock file instead of lockb file ([c129880](https://github.com/AtomiCloud/ketone.cyan/commit/c129880c6b5216917d2e1d7f133d3b37874489a9))
+
+
+### 🐛 Bug Fixes 🐛
+
+* migrate to lock instead of lockb ([eb0ea9f](https://github.com/AtomiCloud/ketone.cyan/commit/eb0ea9f648baea173b8635082126802f36d7b646))
+
 ## [1.1.2](https://github.com/AtomiCloud/ketone.cyan/compare/v1.1.1...v1.1.2) (2026-02-10)
 
 
