@@ -2,8 +2,12 @@
   "name": "template",
   "module": "index.ts",
   "type": "module",
+  "scripts": {
+    "knip": "knip"
+  },
   "devDependencies": {
-    "bun-types": "latest"
+    "bun-types": "latest",
+    "knip": "^5.83.1"
   },
   "peerDependencies": {
     "typescript": "^5.9.3"
