@@ -1,3 +1,17 @@
+## [1.1.1](https://github.com/AtomiCloud/ketone.cyan/compare/v1.1.0...v1.1.1) (2026-02-10)
+
+
+### 🐛 Bug Fixes 🐛
+
+* incorrect skill placement ([35e377a](https://github.com/AtomiCloud/ketone.cyan/commit/35e377a0f3af5383231d2962a68b00b2ffa12be0))
+
+
+### 🔼 Dependency Upstreams 🔼
+
+* cyan upgrade ([86afe93](https://github.com/AtomiCloud/ketone.cyan/commit/86afe935ce13dceba4a0e2ac651a566766f6c10d))
+* upgrade packages and nix ([8f8367e](https://github.com/AtomiCloud/ketone.cyan/commit/8f8367e3c62c9cea398f6508824ea51354d39280))
+* upgrade template deps ([adb6cb5](https://github.com/AtomiCloud/ketone.cyan/commit/adb6cb547207aae1027321ae12c47347bd2463e1))
+
 ## [1.1.0](https://github.com/AtomiCloud/ketone.cyan/compare/v1.0.3...v1.1.0) (2025-09-20)
 
 
